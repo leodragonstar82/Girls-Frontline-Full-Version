@@ -244,3 +244,6 @@ This repository serves as the official landing page for Girls' Frontline 2: Exil
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Girls' Frontline 2: Exilium today!**
+
+---
+**Last updated:** 2026-09-10 09:25:35 UTC
