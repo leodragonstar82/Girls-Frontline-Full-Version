@@ -246,4 +246,4 @@ This repository serves as the official landing page for Girls' Frontline 2: Exil
 **Get the most recent version of Girls' Frontline 2: Exilium today!**
 
 ---
-**Last updated:** 2026-09-20 23:55:51 UTC
+**Last updated:** 2026-09-21 04:10:19 UTC
